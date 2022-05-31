@@ -1,0 +1,33 @@
+14;Mathematique;Physique
+7106;Ict;Mathematique
+110367106;Mathematique;Physique
+110365106;Mathematique;Physique
+1047;Physique;Chimie
+123;Chimie;Geo Science
+159;Physique;Chimie
+78;Mathematique;Bio Science
+321;Mathematique;Physique
+qSqs;Mathematique;Physique
+azdqsd;Mathematique;Bio Science
+sdfsd;Physique;Chimie
+13;Physique;Bio Science
+qsdqsd;Mathematique;Physique
+q198qs;Ict;Mathematique
+qxcqsq;Physique;Ict
+741;Chimie;Geo Science
+12;Mathematique;Chimie
+azertyuio;Chimie;Bio Science
+4717417;Physique;Mathematique
+789654;Mathematique;Bio Science
+104785;Mathematique;Geo Science
+75454;Mathematique;Chimie
+wfsdfsd;Chimie;Ict
+5106565;Geo Science;Mathematique
+191919;Mathematique;Bio Science
+sdfsdfQSqs;Bio Science;Mathematique
+199191911;Physique;Bio Science
+SDFSDFFGFDG;Mathematique;Bio Science
+100000;Mathematique;Chimie
+787545;Chimie;Mathematique
+121212;Chimie;Physique
+110361047;Mathematique;Geo Science
